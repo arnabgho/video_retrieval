@@ -1,5 +1,5 @@
 ## Diagrammatic overview of the system architecture
-<img src='Architecture.jpg' width=350>
+<img src='Architecture.jpg' width=700>
 
 
 ## Prerequisites
@@ -11,7 +11,7 @@
 - Clone this repo:
 ```
 git clone https://github.com/arnabgho/video_retrieval
-cd img_retrieval
+cd video_retrieval
 ```
 - Install PyTorch 1.0+ and dependencies from http://pytorch.org
 - Install Torchvision
