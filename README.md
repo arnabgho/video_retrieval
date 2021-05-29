@@ -27,3 +27,4 @@ pip install -r requirements.txt
 ```
 python similarity.py --image './CV_Challenge_data/images/biking.jpg' --video_folder './CV_Challenge_data/videos/' --topk 2
 ```
+### Go to interesting_tests.md for more example test cases and edge cases
